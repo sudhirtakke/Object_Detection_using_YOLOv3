@@ -10,3 +10,5 @@ YOLO (You Only Look Once) : Real time object detection technique
 - There are three main variations of the approach, **YOLOv1**, **YOLOv2**, and **YOLOv3**.
 
 - We will use **experiencor**’s [keras-yolo3](https://github.com/experiencor/keras-yolo3) project as the basis for performing object detection with a YOLOv3 model.
+
+[Jupyter Notebook](./Object_Detection_using_YOLOv3.ipynb)
